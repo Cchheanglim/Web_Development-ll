@@ -1,0 +1,6 @@
+{
+  "name": "Animal Adoption Center",
+  "description": "A complete PHP Laravel 11 animal adoption center showcase with a private owner management dashboard, pet profiles, and adoption inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
